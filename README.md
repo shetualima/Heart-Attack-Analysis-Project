@@ -11,7 +11,7 @@ This dataset contains [Number] records of patient data with [Number] features. T
 
 **Key Features:**
 
-* **Target Variable:** The target variable is `heart_attack` (or similar name), which is a binary indicator (e.g., 1 for heart attack, 0 for no heart attack).
+* **Target Variable:** The target variable is `heart_attack` as `num` (or similar name), which is a binary indicator (e.g., 1 for heart attack, 0 for no heart attack).
 
 * **Features:** The features included in the dataset are:
     *  `age`: Age of the patient (numerical)
@@ -48,7 +48,7 @@ This dataset contains [Number] records of patient data with [Number] features. T
 | `slope`     | The slope of the peak exercise ST segment (1=upsloping, 2=flat, 3=downsloping)| Categorical| 1, 2, 3            |
 | `ca`        | Number of major vessels (0-3) colored by flourosopy       | Integer    | 0, 1, 2, 3            |
 | `thal`      | Thalassemia (3=normal, 6=fixed defect, 7=reversable defect)| Categorical| 3, 6, 7            |
-| `heart_attack` | Target variable: Presence of heart attack (1=yes, 0=no)       | Binary     | 0, 1                    |
+| `heart_attack`as `num` | Target variable: Presence of heart attack (1=yes, 0=no)       | Binary     | 0, 1                    |
 
 ## Using Tools:
 
