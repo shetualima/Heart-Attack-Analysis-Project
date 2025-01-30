@@ -28,3 +28,27 @@ This dashboard is for:
 * **Model Comparison:** Comparing the performance of different models for heart attack prediction.
 
 
+# Python Project
+
+
+
+![image](https://github.com/user-attachments/assets/70e1baa8-bc5f-47ef-9981-846d8fe0b33a)
+
+![image](https://github.com/user-attachments/assets/bc0a0f49-8f8e-43b9-99ab-1d37401b42fd)
+
+![image](https://github.com/user-attachments/assets/308adfbc-1886-429a-82b6-99b2010f2a71)
+
+![image](https://github.com/user-attachments/assets/0f53f253-e9bd-42ee-8e5b-af3ba3aa7081)
+
+![image](https://github.com/user-attachments/assets/ba1e6858-2f44-45e4-b039-078ab1b69056)
+
+![image](https://github.com/user-attachments/assets/54566930-e008-42cf-9c14-b8aed3280d50)
+
+
+
+
+
+
+
+
+
