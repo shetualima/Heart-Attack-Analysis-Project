@@ -8,7 +8,7 @@ This repository contains a dataset for predicting the likelihood of a heart atta
 
 ## Dataset Overview
 
-This dataset contains [Number] records of patient data with [Number] features. The data includes both numerical and categorical features, providing a comprehensive view of patient health conditions related to heart health. 
+This dataset contains 194 records of patient data with 14 features. The data includes both numerical and categorical features, providing a comprehensive view of patient health conditions related to heart health. 
 
 **Key Features:**
 
@@ -31,7 +31,7 @@ This dataset contains [Number] records of patient data with [Number] features. T
     * **(Add any other relevant features in your dataset)**
 
 * **Data Source:**
-  This dataset was compiled from [mention source of your dataset, e.g., a research paper, a public repository like Kaggle or UCI, or simulated data].
+  This dataset was compiled from a public repository Kaggle
 
   
 * ## Data Dictionary
