@@ -8,7 +8,7 @@ This repository could be used as a learning project to practice data manipulatio
 Heart Attack Prediction:
 ## Dataset Overview
 
-This dataset contains [Number] records of patient data with [Number] features. The data includes both numerical and categorical features, providing a comprehensive view of patient health conditions related to heart health. 
+This dataset contains 294 records of patient data with 14 features. The data includes both numerical and categorical features, providing a comprehensive view of patient health conditions related to heart health. 
 
 
 
