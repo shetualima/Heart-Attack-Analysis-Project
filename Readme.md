@@ -2,7 +2,8 @@
 
 This repository contains a dataset for predicting the likelihood of a heart attack based on various patient health characteristics. It is intended for educational purposes, research.
 
-![image](https://github.com/user-attachments/assets/38213412-6724-4fa0-8f59-6a70a1bcbcd4)
+![image](https://github.com/user-attachments/assets/8bc4596d-c342-428e-83ee-50f1f175faa9)
+
 
 
 
